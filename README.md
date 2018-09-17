@@ -3,10 +3,10 @@
 
 2. What five objects are created in the main?
 
-Answer: Animal object, list of dogs , and then 3 dogs to be inserted in the list
+Answer: Array list of dogs, comparator, and then 3 dogs
 
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 
 The comparator constructor call is inside of the first Collections.sort() call.
-
+The class definition is located in the java.util.comparator library
