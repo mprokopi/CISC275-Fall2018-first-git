@@ -8,5 +8,5 @@ Answer: Animal object, list of dogs , and then 3 dogs to be inserted in the list
 
 3. Can you spot the comparator constructor call? Where is the class definition for the comparator?
 
-The comparator constructor call.
+The comparator constructor call is inside of the first Collections.sort() call.
 
